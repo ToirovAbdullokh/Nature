@@ -478,7 +478,7 @@ ul,ol,li{
     color: var(--white);
     margin-bottom: 24px;
 }
-.footer__mid-inner p{
+.footer__mid-inner a{
     font-size: 14px;
     color: var(--white);
     opacity: 0.78;

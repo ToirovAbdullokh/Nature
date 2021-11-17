@@ -312,7 +312,7 @@
         font-size: 14px !important;
         margin-bottom: 10% !important;
     }
-    .footer__mid-inner p{
+    .footer__mid-inner a{
         font-size: 11px !important;
         margin-bottom: 5% !important;
     }
@@ -651,7 +651,7 @@
     .footer__mid-inner h3{
         font-size: 10px !important;
     }
-    .footer__mid-inner p{
+    .footer__mid-inner a{
         font-size: 7px !important;
     }
     .footer__right h2{
@@ -942,7 +942,7 @@
     .footer__mid-inner h3{
         font-size: 7px !important;
     }
-    .footer__mid-inner p{
+    .footer__mid-inner a{
         font-size: 6px !important;
     }
     .footer__right h2{
